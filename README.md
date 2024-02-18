@@ -28,7 +28,7 @@
 * [Usage](#usage)
 * [License](#license)
 * [Authors](#authors)
-* [Future](#FutureVersion)
+* [Future](#future-version)
 
 ## About The Project
 
