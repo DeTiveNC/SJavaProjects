@@ -58,8 +58,7 @@ You need to have:
 ```
 2. Build the project
     - SPRING:
-       - OPTION 1: Build it on the IDE
-       - OPTION 2: On terminal at the project folder
+       - PART 2: On terminal at the project folder
  ```./mvnw clean package -DskipTests```
    - Docker:
            ``` docker-compose build ```
