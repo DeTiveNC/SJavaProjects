@@ -28,6 +28,7 @@
 * [Usage](#usage)
 * [License](#license)
 * [Authors](#authors)
+* [Future](#FutureVersion)
 
 ## About The Project
 
@@ -58,10 +59,8 @@ You need to have:
 ```
 2. Build the project
     - SPRING:
-       - PART 2: On terminal at the project folder
+       - On terminal at the project folder
  ```./mvnw clean package -DskipTests```
-   - Docker:
-           ``` docker-compose build ```
 3. Run the script of docker-compose
             ```docker-compose up```
 4. PgAdmin
@@ -88,3 +87,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/DeTiveNC/Spr
 ## Authors
 
 * **Nicolas Cao** - *Comp Eng Student* - [Nicolas Cao](https://github.com/detivenc) - *Built SpringProject*
+
+### Future Version
+
+Passing to kubernetes this whole project
