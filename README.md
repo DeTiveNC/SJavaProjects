@@ -26,9 +26,10 @@
   * [Installation](#installation)
 * [Usage](#usage)
 * [Deploy](#deploy)
+* [K8S](#k8s)
 * [License](#license)
 * [Authors](#authors)
-* [K8S](#k8s)
+
 
 ## About The Project
 
