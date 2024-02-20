@@ -45,6 +45,6 @@ spec:
           name: java-app
           ports:
             - containerPort: 8080
-              hostPort: 8080
+              hostPort: 0
               protocol: TCP
       restartPolicy: Always
