@@ -1,0 +1,5 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.configuration.runtimes": [],
+    "graalvm.home": "C:\\Program Files\\Java\\graalvm-jdk-21.0.2+13.1"
+}

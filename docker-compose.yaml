@@ -15,7 +15,7 @@ services:
       - SPRING_JPA_HIBERNATE_DDL_AUTO=update
     depends_on:
       - java_db
-    image: detivenc/java_app:1.0
+    image: detivenc/java_app:1.5
   java_db:
     container_name: java_db
     image: postgres:15.6
