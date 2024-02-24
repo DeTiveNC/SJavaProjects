@@ -29,7 +29,7 @@ spec:
              done
       containers:
         - name: java-app
-          image: detivenc/java_app:1.0
+          image: <your-image>
           env:
            - name: DATABASE_PASSWORD
              valueFrom: 
