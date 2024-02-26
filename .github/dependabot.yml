@@ -6,7 +6,7 @@
 version: 2
 updates:
   - package-ecosystem: maven # See documentation for possible values
-    directory: "./Simple-PostgresqlSpringDocker/" # Location of package manifests
+    directory: "./Template-SpringBootProject-with-Docker-and-K8S/Simple-PostgresqlSpringDocker/" # Location of package manifests
     schedule:
       interval: "weekly"
     reviewers:
