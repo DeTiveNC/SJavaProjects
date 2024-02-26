@@ -1,6 +1,6 @@
 <p align="center">
 
-  <h3 align="center">Projects that I build on with Tutorials and my own</h3>
+  <h3 align="center">Spring Projects that I build on with Tutorials and my own</h3>
 </p>
 
 ## License
