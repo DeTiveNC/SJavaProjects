@@ -1,6 +1,6 @@
 <p align="center">
 
-  <h3 align="center">Spring and Java Projects that I build on with Tutorials and my own</h3>
+  <h3 align="center">Spring, Quarkus, Micronaut and Java Vanilla Projects that I build on with Tutorials and my own</h3>
 </p>
 
 ## License
