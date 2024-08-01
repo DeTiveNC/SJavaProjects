@@ -1,5 +1,4 @@
 <p align="center">
-  <h3> Test </h3>
   <h3 align="center">Spring, Quarkus, Micronaut and Java Vanilla Projects that I build on with Tutorials and my own</h3>
 </p>
 
